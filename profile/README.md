@@ -18,13 +18,13 @@
   [![Telegram](https://img.shields.io/badge/Telegram-Shahed_CE-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shahed_CE)
   [![Rubika](https://img.shields.io/badge/Rubika-Shahed_CE-1976D2?style=for-the-badge)](https://rubika.ir/Shahed_CE)
   [![Aparat](https://img.shields.io/badge/Aparat-Shahed_CE-ED1C24?style=for-the-badge)](https://aparat.com/Shahed_CE)
-  [![Virgool](https://img.shields.io/badge/Virgool-Shahed_CE-00A693?style=for-the-badge)](https://virgool.io/Shahed_CE)
+  [![Virgool](https://img.shields.io/badge/Virgool-Shahed_CE-00A693?style=for-the-badge)](https://virgool.ir/Shahed_CE)
 
   **📰 Matris Magazine**
 
   [![Telegram](https://img.shields.io/badge/Telegram-Matris_Magazine-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MatrisMagazine)
   [![Rubika](https://img.shields.io/badge/Rubika-Matris_Magazine-1976D2?style=for-the-badge)](https://rubika.ir/MatrisMagazine)
-  [![Virgool](https://img.shields.io/badge/Virgool-Matris_Magazine-00A693?style=for-the-badge)](https://virgool.io/MatrisMagazine)
+  [![Virgool](https://img.shields.io/badge/Virgool-Matris_Magazine-00A693?style=for-the-badge)](https://virgool.ir/MatrisMagazine)
 
 </div>
 
